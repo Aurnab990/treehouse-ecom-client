@@ -5,6 +5,7 @@ import Allplants from '../Pages/Allplants/Allplants';
 import Gardendecor from '../Pages/GardenDecor/Gardendecor';
 import Contact from '../Pages/Contact/Contact';
 import Signin from '../Pages/Login/Signin';
+import ProductDetails from '../Pages/ProductDetails/ProductDetails';
 
 export const router = createBrowserRouter([
     {
@@ -14,9 +15,13 @@ export const router = createBrowserRouter([
             {
                 index: true,
                 element:<Home></Home>,
-                loader: ()=> fetch('Products.json')
+                loader: ()=> fetch('http://localhost:3000/items')
             },
-            
+            {
+                path: "/details/:id",
+                element: <ProductDetails></ProductDetails>,
+                loader: ({params})=> fetch(`http://localhost:3000/items/${params.id}`)
+            }
         ]
         
     },
