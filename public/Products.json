@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Strawberry Plant",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3384599415.jpg",
+        "details": "A sweet, red fruit plant that is perfect for home gardens.",
+        "price": "$5.99",
+        "availability": "In Stock",
+        "growTips": "Plant in well-drained soil with plenty of sunlight. Water regularly, but avoid overwatering to prevent root rot."
+    },
+    {
+        "id": 2,
+        "name": "Lemon Tree",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/2371752280.jpg",
+        "details": "A citrus tree that produces fragrant flowers and juicy lemons.",
+        "price": "$29.99",
+        "availability": "In Stock",
+        "growTips": "Place in a sunny spot and water deeply once a week. Fertilize every 4-6 weeks during the growing season."
+    },
+    {
+        "id": 3,
+        "name": "Rose Plant",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3368848262.jpg",
+        "details": "A beautiful flowering plant that comes in various colors.",
+        "price": "$12.99",
+        "availability": "In Stock",
+        "growTips": "Roses thrive in well-drained soil with 6-8 hours of sunlight. Prune regularly to encourage new growth and blooming."
+    },
+    {
+        "id": 4,
+        "name": "Tomato Plant",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/2924480593.jpg",
+        "details": "A versatile fruit plant that produces juicy tomatoes.",
+        "price": "$4.99",
+        "availability": "In Stock",
+        "growTips": "Plant in full sun and water consistently. Use stakes or cages to support growth."
+    },
+    {
+        "id": 5,
+        "name": "Lavender",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3492429014.jpg",
+        "details": "An aromatic garden plant known for its soothing fragrance.",
+        "price": "$7.99",
+        "availability": "In Stock",
+        "growTips": "Lavender prefers well-drained soil and full sun. Water sparingly and prune in spring to shape."
+    },
+    {
+        "id": 6,
+        "name": "Blueberry Bush",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/4093440132.jpg",
+        "details": "A fruit-bearing shrub that produces sweet, nutritious blueberries.",
+        "price": "$15.99",
+        "availability": "In Stock",
+        "growTips": "Plant in acidic, well-drained soil with full sun. Water regularly and mulch to maintain moisture."
+    },
+    {
+        "id": 7,
+        "name": "Sunflower",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/4038412242.jpg",
+        "details": "A tall garden plant with bright yellow flowers that follow the sun.",
+        "price": "$3.99",
+        "availability": "In Stock",
+        "growTips": "Sunflowers need full sun and well-drained soil. Water deeply and regularly, especially during dry spells."
+    },
+    {
+        "id": 8,
+        "name": "Orchid",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/4102343742.jpg",
+        "details": "A delicate flowering plant that is prized for its beautiful, exotic flowers.",
+        "price": "$19.99",
+        "availability": "In Stock",
+        "growTips": "Orchids thrive in indirect light and high humidity. Water sparingly and use orchid-specific fertilizer."
+    },
+    {
+        "id": 9,
+        "name": "Basil",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3103628787.jpg",
+        "details": "A fragrant herb used in cooking, especially in Italian cuisine.",
+        "price": "$2.99",
+        "availability": "In Stock",
+        "growTips": "Basil needs full sun and well-drained soil. Pinch off the flowers to encourage leaf growth."
+    },
+    {
+        "id": 10,
+        "name": "Peach Tree",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/4034486877.jpg",
+        "details": "A fruit tree that produces sweet and juicy peaches.",
+        "price": "$34.99",
+        "availability": "Out of Stock",
+        "growTips": "Plant in full sun with well-drained soil. Prune in late winter and thin fruit to improve size and quality."
+    },
+    {
+        "id": 11,
+        "name": "Tulip",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3492429014.jpg",
+        "details": "A popular spring-blooming flower with vibrant colors.",
+        "price": "$6.99",
+        "availability": "In Stock",
+        "growTips": "Tulips need full sun and well-drained soil. Plant bulbs in the fall for spring blooms."
+    },
+    {
+        "id": 12,
+        "name": "Mint",
+        "imageUrl": "https://d2j6dbq0eux0bg.cloudfront.net/images/40363330/3472552396.jpg",
+        "details": "A refreshing herb used in teas, desserts, and cooking.",
+        "price": "$2.49",
+        "availability": "In Stock",
+        "growTips": "Mint grows best in partial shade with moist, well-drained soil. It's best to plant in containers as it can spread quickly."
+    }
+]

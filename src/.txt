@@ -1,0 +1,10 @@
+** Product details page.
+** Buy option
+** Checkout page
+** Which one bought user can see his dashboard
+** Cancel the order
+
+**All items page- Search by name, catagory, 
+
+** Admin can add new product,delete,edit product, cancel request from user.
+** see the user listing.
